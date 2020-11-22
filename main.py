@@ -4,6 +4,7 @@ from angle_calc import AngleCalc
 from local_player import LocalPlayer
 
 
+# Main function and entry point of the aim bot. Aim bot is active while 'n' is pressed.
 def main():
     mh = MemoryHandler()
     while 1:
