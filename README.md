@@ -1,2 +1,2 @@
 # pymem_csgo_aimbot
-Just a little aimbot for csgo using pymem. Only for educating usage. DON'T USE WHEN PLAYING ONLINE!
+Just a little aimbot for csgo using pymem. Only for educational usage. DON'T USE WHEN PLAYING ONLINE! YOU ARE GETTING BANNED IF YOU AARE USING IT! Usaage at own risk. 
